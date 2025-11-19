@@ -2,7 +2,15 @@
 
 Membuat Website Data Alumni Menggunakan CRUD
 
-Bahasa yang digunakan :
+🚀 **Fitur**
+
+- Pencarian
+- Edit
+- Tambah
+- Hapus
+
+🌐 **Bahasa yang digunakan**
+
 - HTML & CSS
 - PHP
 
